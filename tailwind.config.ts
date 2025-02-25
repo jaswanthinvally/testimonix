@@ -13,7 +13,7 @@ export default {
         Poppins : ['poppins', 'sans-serif']
       },
       colors: {
-        customblue : '#5D5DFF',
+        customblue : '#F2AA4CFF',
         background: "var(--background)",
         foreground: "var(--foreground)",
       
